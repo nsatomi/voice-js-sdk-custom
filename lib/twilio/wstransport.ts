@@ -5,7 +5,7 @@
  */
 
 import { EventEmitter } from 'events';
-// import * as WebSocket from 'ws';
+import * as WebSocket from 'ws';
 import { SignalingErrors } from './errors';
 import Log from './log';
 
